@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Watchy",
+			"path": "."
+		},
+		{
+			"path": "../../../../Downloads/Bahn-for-Watchy-main"
+		},
+		{
+			"path": "../../../../Downloads/Watchy-master/examples/WatchFaces"
+		},
+		{
+			"path": "../../../Arduino/Line-for-Watchy"
+		}
+	]
+}
